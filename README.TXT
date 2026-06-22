@@ -2,8 +2,7 @@ Kengur's Tricks on the Edge -- Quake 2 ultimate demo by Kengur
 Released on September 6, 1999
 
 ------------------------------------------
-Kengur - http://www.kengur.com/quake2
-kengur@kengur.com icq 32821122
+https://www.youtube.com/watch?v=bW6NjTxWekI
 ------------------------------------------
 
 Files included:
